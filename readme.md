@@ -45,6 +45,14 @@ When combined with the Massey–Omura cryptosystem, this approach forms the back
 
 ---
 
+## Caution:
+
+It needs to be said, that this project should obly demonstrate theoreticaly feasibility of the promlem of digital voting meeting certaint criterias. 
+It can NOT be used in real elections becasue of efficiency lacks and unsufficient encryption security. 
+It needs further research to meet also these requirements, however this project showcases that its theoretically feasable and in small elections also usable. 
+
+---
+
 ## References
 
 Python <br>
